@@ -20,7 +20,7 @@ Make sure you have the following installed:
 
 ## 🧰 Technologies Used
 - Streamlit: Web application framework
-- Google Generative AI: Natural language processing for resume insights
+- Google Generative AI: Natural language processing for resume insight
 - PyPDF2: PDF parsing library
 - Python-dotenv: For environment variable management
 
